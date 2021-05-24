@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aldisanta&show_icons=true&count_private=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aldisanta&show_icons=true&count_private=true&theme=synthwave&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldisanta&layout=compact)
+
 
 <!--
 **aldisanta/aldisanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
